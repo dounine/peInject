@@ -1,10 +1,8 @@
 #include <iostream>
 #include <Windows.h>
-#include <stdlib.h>
 #include <tchar.h>
 #include <sys/stat.h>
 #include <filesystem>
-#include <direct.h>
 
 using namespace std;
 
